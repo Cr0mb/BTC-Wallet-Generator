@@ -10,6 +10,9 @@ BTC Wallet Generator is a Python application that generates Bitcoin wallets, inc
 - Downloads and displays a Bitcoin logo.
 - Allows unlocking encrypted wallet files with a password.
 
+![capture](https://github.com/user-attachments/assets/149fdc78-0391-41b3-91d4-aa57e771d821)
+
+
 ![image](https://github.com/user-attachments/assets/dbe72254-fe21-4fa6-9b61-7a154ae5d2c0)
 
 
